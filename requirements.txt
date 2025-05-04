@@ -1,0 +1,8 @@
+aiohttp
+asyncio
+Django>=5.2
+gunicorn
+psycopg2-binary
+djangorestframework
+django-cors-headers
+google-cloud-pubsub==2.20.0
